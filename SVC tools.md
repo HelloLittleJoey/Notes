@@ -1,6 +1,7 @@
 2025年最佳开源变声软件推荐：音乐翻唱神器
 
 下载地址：https://www.yuque.com/flowercry/hxf0ds
+
 根据您的需求，我特别推荐两款在音乐翻唱方面效果出色的开源变声软件，它们都支持"输入参考音频，将歌曲换成参考音频翻唱"的功能：
 🔥 1. RVC (Retrieval-based-Voice-Conversion) - 音乐翻唱首选
 
